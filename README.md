@@ -21,7 +21,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Mitchell Paasch** - *Initial work* - (https://github.com/PurpleBooth)
+* **Mitchell Paasch** - *Initial work* - (https://github.com/mxcloud)
 
 ## License
 
